@@ -12,7 +12,11 @@ After installing the extension, simply open Gmail, and you'll see the Email Trac
 
 ## Feedback
 
-We welcome your feedback! If you have any suggestions, feature requests, or encounter any issues, please don't hesitate to [contact us](https://emailtracker.cc).
+We welcome your feedback! If you have any suggestions, feature requests, or encounter any issues, please don't hesitate to [contact us](mailto:info@emailtracker.cc).
+
+## Documentation
+
+Check out the [Email Tracker Knowledge Base](https://email-tracker.gitbook.io/email-tracker-knowledge-base/)
 
 ## About
 
